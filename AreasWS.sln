@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasWS", "AreasWS\AreasWS.csproj", "{09785C2A-0322-498A-8E95-8D9623D1207D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorINT", "CalculatorINT\CalculatorINT.csproj", "{0B8B917C-2629-44D2-A169-C099908F7D2A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{09785C2A-0322-498A-8E95-8D9623D1207D} = {09785C2A-0322-498A-8E95-8D9623D1207D}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09785C2A-0322-498A-8E95-8D9623D1207D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09785C2A-0322-498A-8E95-8D9623D1207D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09785C2A-0322-498A-8E95-8D9623D1207D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09785C2A-0322-498A-8E95-8D9623D1207D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8B917C-2629-44D2-A169-C099908F7D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8B917C-2629-44D2-A169-C099908F7D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8B917C-2629-44D2-A169-C099908F7D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8B917C-2629-44D2-A169-C099908F7D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D1B737-A604-48A2-8703-19F7C5E62426}
+	EndGlobalSection
+EndGlobal
