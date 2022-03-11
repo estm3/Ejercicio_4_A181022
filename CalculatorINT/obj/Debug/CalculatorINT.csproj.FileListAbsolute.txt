@@ -1,0 +1,10 @@
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\bin\Debug\CalculatorINT.exe.config
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\bin\Debug\CalculatorINT.exe
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\bin\Debug\CalculatorINT.pdb
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.csprojAssemblyReference.cache
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.Form1.resources
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.Properties.Resources.resources
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.csproj.GenerateResource.cache
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.csproj.CoreCompileInputs.cache
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.exe
+C:\Users\1082537275\source\repos\AreasWS\CalculatorINT\obj\Debug\CalculatorINT.pdb
